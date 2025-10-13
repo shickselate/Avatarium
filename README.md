@@ -1,8 +1,9 @@
 
 # The Avatarium
 
-**Avatarium** is an interactive AI-driven VR companion and visual storytelling interface.  
-Version 10f integrates **OpenAI GPT‑4o‑mini** as the default conversational model and introduces stronger **head, face, and gesture control** for dynamic character animation through **ComfyUI** workflows.
+**Avatarium** is an interactive storytelling environment where characters from a living narrative world become responsive, expressive presences. Each avatar carries its own history and agency, and every encounter can subtly reshape the wider fictional arc — deepening relationships, altering events, and influencing how the world evolves.
+
+Built as a VR-ready, AI-driven system, Avatarium enables personal, real-time exchanges with these characters through natural dialogue and lifelike animation, blending conversation, performance, and narrative continuity into a single immersive medium.
 
 ---
 
