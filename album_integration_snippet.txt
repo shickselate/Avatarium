@@ -1,0 +1,33 @@
+
+# Integration snippet (pseudo-diff) for companion_web_v10e.py
+
+from album_manager import save_to_album, list_album
+import memory_manager as mm
+
+# UI additions (right panel):
+#   - Button: save_album_btn = gr.Button("Save to Album")
+#   - Gallery: album_gallery = gr.Gallery(label="Album", columns=4, height=200)
+
+CHAR_NAME = "Ari"
+MEM_PATH = f"memory/{CHAR_NAME}.yaml"
+mem = mm.load(MEM_PATH)
+
+def save_current_to_album(latest_image_path, composed_visual, structured_plan, used_input):
+    meta = {
+        "prompt": composed_visual,
+        "plan": structured_plan,
+        "used_input": used_input,
+        "seed": 42,  # pass real seed
+    }
+    if latest_image_path:
+        p = save_to_album(CHAR_NAME, latest_image_path, meta)
+        # Optionally add episodic item referencing p
+        mm.add_episode(mem, "Saved frame", f"Saved {p.name} | {structured_plan}")
+        mm.save(MEM_PATH, mem)
+    # Return updated gallery items
+    items = list_album(CHAR_NAME, limit=12)
+    return [(i["thumb_path"], i["prompt"][:60]) for i in items]  # (image, caption)
+
+# Hook the button:
+# save_album_btn.click(save_current_to_album, inputs=[image, last_visual, plan_json_box, used_input_label],
+#                      outputs=[album_gallery])

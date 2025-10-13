@@ -1,0 +1,9 @@
+﻿input/
+__pycache__/
+album/
+outputs/
+_old/
+*.pyc
+*.log
+.DS_Store
+.env

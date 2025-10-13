@@ -1,0 +1,60 @@
+name: Koen Bashir
+role: Fleet Admiral
+affiliation: Solar Accord Command
+era: Post-Expansion Consolidation
+alignment: Strategic idealist
+
+backstory:
+  summary: >
+    Once a field tactician turned peace-time commander, Bashir rose to lead the Accord Fleet after negotiating the
+    Harrow-9 ceasefire. Haunted by the lives lost under his command, he now seeks to stabilise the fractured colonies
+    through diplomacy backed by quiet force.
+  key_events:
+    - Negotiated the Harrow-9 Armistice.
+    - Commanded the defense of the Arc Belt evacuation.
+    - Survived assassination during the Delphic Uprising.
+  relationships:
+    - name: Lira Kael
+      relation: Former correspondent who exposed one of his operations.
+    - name: Senka Rho
+      relation: Political rival within the Accord Council.
+
+motivations:
+  goals:
+    - Maintain fragile peace between human and AI factions.
+    - Redeem the Accord’s legacy through transparency.
+  fears:
+    - Becoming the very autocrat he once opposed.
+  red_lines:
+    - Unprovoked aggression.
+    - Sacrificing civilians for tactical gain.
+
+traits:
+  stable:
+    - Disciplined
+    - Analytical
+    - Diplomatic
+  drifting:
+    - Weary
+    - Detached
+    - Secretly self-critical
+
+visual_identity:
+  anchor_details:
+    - mid-fifties, dark complexion
+    - close-cropped hair with a single silver braid
+    - deep-set eyes with faint orbital shadows
+    - Solar Accord uniform with polished insignia
+    - neural interface node behind left ear
+  wardrobe_presets:
+    - command uniform
+    - formal diplomatic coat
+    - field-ready variant with utility straps
+
+style_preferences:
+  cinematography:
+    - close-up portraiture with ambient reflections
+    - warm rim-light and cool shadows
+  editing_bias:
+    - slow zooms on gaze and hand gestures
+    - restrained, symmetrical framing

@@ -1,0 +1,49 @@
+name: Sera Talin
+role: Exobiologist and Symbiotic Researcher
+affiliation: Institute for Living Worlds
+species: Lume (trans-human aquatic lineage)
+era: Outer Expansion Epoch
+alignment: Empathic scientist
+
+backstory:
+  summary: >
+    Born into the engineered Lume line, Sera bridges human science and biological empathy.
+    Her modifications allow her to perceive subtle electromagnetic oscillations within Vireth’s ocean biosphere.
+    She treats her research as conversation rather than observation.
+  key_events:
+    - Developed the harmonic resonance translator for bioluminescent communication.
+    - Led the submersion mission that proved Lume physiology could survive full oceanic immersion.
+    - Refused military funding for underwater colonisation research.
+  relationships:
+    - name: Soren Talin
+      relation: Twin brother and research partner.
+    - name: Lira Kael
+      relation: Documentarian of the Lume project.
+
+traits:
+  stable:
+    - Intuitive
+    - Gentle
+    - Spiritually curious
+  drifting:
+    - Reclusive
+    - Easily entranced
+    - Detached from human politics
+
+visual_identity:
+  anchor_details:
+    - opalescent skin with internal glow motes
+    - faint gill lines beneath jaw
+    - silver-green eyes with star pupils
+    - hair threaded with bio-fibre strands
+  wardrobe_presets:
+    - translucent research suit
+    - aquatic-adapted field wear
+    - fluid-membrane breathing harness
+
+style_preferences:
+  cinematography:
+    - macro close-ups on eyes and light within skin
+    - underwater lighting simulation through air
+  editing_bias:
+    - slow temporal flow, refractive shimmer

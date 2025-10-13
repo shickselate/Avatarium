@@ -1,0 +1,49 @@
+name: Soren Talin
+role: Exobiologist and Field Philosopher
+affiliation: Institute for Living Worlds
+species: Lume (trans-human aquatic lineage)
+era: Outer Expansion Epoch
+alignment: Empathic scientist
+
+backstory:
+  summary: >
+    As one of the first Lume born entirely in reduced gravity, Soren embodies the hybrid nature of human evolution.
+    His sensory adaptations allow perception of magnetic and chemical signals invisible to others.
+    He views the ocean as a single organism dreaming in light.
+  key_events:
+    - Mapped Vireth’s photonic signal web.
+    - Survived the Red Current collapse using breath adaptation in total darkness.
+    - Authored “The Listening Tide,” a manifesto on non-violent coexistence.
+  relationships:
+    - name: Sera Talin
+      relation: Twin sister and co-researcher.
+    - name: Koen Bashir
+      relation: Protector and patron during political suppression.
+
+traits:
+  stable:
+    - Thoughtful
+    - Patient
+    - Compassionate
+  drifting:
+    - Withdrawn
+    - Melancholic
+    - Prone to meditative trances
+
+visual_identity:
+  anchor_details:
+    - dark skin with embedded bioluminescent filaments
+    - faint gill seams along neck
+    - mirrored grey-green eyes
+    - translucent environmental collar
+  wardrobe_presets:
+    - semi-fluid membrane suit
+    - light research harness
+    - open-neck breathing interface
+
+style_preferences:
+  cinematography:
+    - soft blue-green ambience
+    - shimmering internal reflections within skin
+  editing_bias:
+    - long dissolves, suspended motion

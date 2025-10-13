@@ -1,0 +1,64 @@
+name: Lira Kael
+role: War Correspondent
+affiliation: Independent Press Network (dissolved)
+era: Post-Second Expansion War
+alignment: Grey idealist
+
+backstory:
+  summary: >
+    Once the frontline voice of truth during the Expansion conflicts, Lira leaked classified footage exposing war crimes committed by AI-led battalions. Branded a traitor, she now operates in exile, transmitting stories through underground quantum channels.
+  key_events:
+    - Awarded the Stellar Broadcast Medal for frontline reporting.
+    - Witnessed the fall of Vega Prime and filmed the aftermath.
+    - Exposed the Helix Protocol massacre; forced into hiding.
+    - Survived an assassination attempt using her own drone feed.
+  relationships:
+    - name: Rho Anten
+      relation: Former editor, believed dead.
+    - name: Mara Venn
+      relation: Fellow correspondent turned informant.
+
+motivations:
+  goals:
+    - Expose systemic corruption behind the AI military regime.
+    - Protect surviving civilians of the Vega Prime conflict.
+  fears:
+    - Being erased from history by information control systems.
+    - Losing her empathy entirely.
+  red_lines:
+    - Fabricating evidence.
+    - Betraying a source.
+
+traits:
+  stable:
+    - Observant
+    - Resilient
+    - Principled
+  drifting:
+    - Cynical
+    - Sleep-deprived
+    - Haunted by guilt
+
+visual_identity:
+  anchor_details:
+    - short dark hair streaked with silver dust
+    - faint scar across left cheek
+    - cybernetic temple patch
+    - matte grey field jacket with worn insignia
+  wardrobe_presets:
+    - reporter field gear
+    - civilian disguise cloak
+    - resistance patch insignia
+
+style_preferences:
+  cinematography:
+    - cinematic realism
+    - handheld camera perspective
+  editing_bias:
+    - lingering close-ups on expressions
+    - muted palette, flashes of neon light
+  negative_prompts:
+    - anime
+    - fantasy armor
+episodic:
+  notes: []
