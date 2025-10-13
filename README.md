@@ -1,6 +1,6 @@
-# 🎭 VR Companion — Interactive Scene Composer with ComfyUI & LLMs
+# 🎭 Companion — Interactive Scene Composer with ComfyUI & LLMs
 
-**VR Companion** is an interactive, AI-driven character system combining real-time conversation, affective reasoning, and image generation via **ComfyUI**. The companion reacts to your chat by composing structured edit prompts that drive image-to-image updates—great for VR or browser-based storytelling.
+**Companion** is an interactive, AI-driven character system combining real-time conversation, affective reasoning, and image generation via **ComfyUI**. The companion reacts to your chat by composing structured edit prompts that drive image-to-image updates—great for VR or browser-based storytelling.
 
 ---
 
