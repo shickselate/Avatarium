@@ -8,12 +8,12 @@ Built as a VR-ready, AI-driven system, Avatarium enables personal, real-time exc
 ---
 
 <p align="center">
-  <img src="./assets/Sera.png" alt="Sera — transhuman sibling adapted for aquatic life" width="45%"/>
-  <img src="./assets/Kai.png" alt="Kai — her brother, shaped by the same tide of evolution" width="45%"/>
+  <img src="./assets/sera.png" alt="Sera — transhuman sibling adapted for aquatic life" width="45%"/>
+  <img src="./assets/soren.png" alt="Kai — her brother, shaped by the same tide of evolution" width="45%"/>
 </p>
 
 <p align="center"><em>
-Sera and Kai — transhuman siblings shaped by the oceanic world of Avatarium.  
+Sera and Soren — transhuman siblings shaped by the oceanic world of Avatarium.  
 Each carries fragments of shared memory, yet their paths diverge with every encounter.
 </em></p>
 
