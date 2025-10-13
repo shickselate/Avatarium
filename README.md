@@ -1,7 +1,7 @@
 
-# Companion Web v10f
+# The Avatarium
 
-**Companion Web** is an interactive AI-driven VR companion and visual storytelling interface.  
+**Avatarium** is an interactive AI-driven VR companion and visual storytelling interface.  
 Version 10f integrates **OpenAI GPT‑4o‑mini** as the default conversational model and introduces stronger **head, face, and gesture control** for dynamic character animation through **ComfyUI** workflows.
 
 ---
