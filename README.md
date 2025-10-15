@@ -54,21 +54,21 @@ Each carries fragments of shared memory, yet their paths diverge with every enco
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./assets/soren02.png" alt="Soren — smiling" width="100%"/><br/>
+      <img src="./assets/Soren02.png" alt="Soren — smiling" width="100%"/><br/>
       <sub>Smiling</sub>
     </td>
     <td align="center" width="50%">
-      <img src="./assets/soren03.png" alt="Soren — worried" width="100%"/><br/>
+      <img src="./assets/Soren03.png" alt="Soren — worried" width="100%"/><br/>
       <sub>Worried</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./assets/soren04.png" alt="Soren — standing at the beach" width="100%"/><br/>
+      <img src="./assets/Soren04.png" alt="Soren — standing at the beach" width="100%"/><br/>
       <sub>Standing at the beach</sub>
     </td>
     <td align="center" width="50%">
-      <img src="./assets/soren05.png" alt="Soren — at the beach, looking at a holographic display" width="100%"/><br/>
+      <img src="./assets/Soren05.png" alt="Soren — at the beach, looking at a holographic display" width="100%"/><br/>
       <sub>Beach + holographic display</sub>
     </td>
   </tr>
