@@ -48,6 +48,33 @@ Each carries fragments of shared memory, yet their paths diverge with every enco
 - Automatic gating for render triggering (threshold + cooldown).
 - Optional “Manual Render” override button.
 
+
+## 🎭 Soren — Pose Gallery
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/soren02.png" alt="Soren — smiling" width="100%"/><br/>
+      <sub>Smiling</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/soren03.png" alt="Soren — worried" width="100%"/><br/>
+      <sub>Worried</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/soren04.png" alt="Soren — standing at the beach" width="100%"/><br/>
+      <sub>Standing at the beach</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/soren05.png" alt="Soren — at the beach, looking at a holographic display" width="100%"/><br/>
+      <sub>Beach + holographic display</sub>
+    </td>
+  </tr>
+</table>
+
+
 ### Album Integration
 - Save current frame and metadata (“Save to Album”).
 - Thumbnail gallery of previous renders with prompt captions.
