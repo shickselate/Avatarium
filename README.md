@@ -8,10 +8,10 @@ Built as a modular, VR‑ready environment, Avatarium combines large‑language 
 ---
 
 <p align="center">
-  <img src="./assets/soren_smile.png" alt="Soren smiling" width="45%"/>
-  <img src="./assets/soren_worried.png" alt="Soren worried" width="45%"/><br/>
-  <img src="./assets/soren_beach.png" alt="Soren standing at the beach" width="45%"/>
-  <img src="./assets/soren_holo.png" alt="Soren at the beach, looking at a holographic display" width="45%"/>
+  <img src="./assets/soren01.png" alt="Soren smiling" width="45%"/>
+  <img src="./assets/soren02.png" alt="Soren worried" width="45%"/><br/>
+  <img src="./assets/soren03.png" alt="Soren standing at the beach" width="45%"/>
+  <img src="./assets/soren04.png" alt="Soren at the beach, looking at a holographic display" width="45%"/>
 </p>
 
 <p align="center"><em>
