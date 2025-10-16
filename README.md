@@ -6,6 +6,21 @@ Each avatar has a distinct backstory, memory, and agency, capable of perceiving,
 Built as a modular, VR‑ready environment, Avatarium combines large‑language models, generative imagery, and character memory systems to create continuous, emotionally rich experiences. Every interaction can subtly reshape a character’s history and the shared fictional world.
 
 ---
+---
+
+## 🌊 Example Characters
+
+| Character | Portrait | Description |
+|------------|-----------|--------------|
+| **Sera** | <img src="./assets/sera.png" alt="Sera — transhuman sibling adapted for aquatic life" width="180"/> | A transhuman woman adapted for oceanic environments — calm, perceptive, and spiritually attuned. Sera acts as both guide and mirror, helping users navigate emotional and narrative depths within Avatarium. |
+| **Soren** | <img src="./assets/soren.png" alt="Soren — her brother, shaped by the same tide of evolution" width="180"/> | Sera’s brother, more analytical and introspective. He carries the same genetic legacy of aquatic adaptation, but his journey leads toward solitude, reflection, and rediscovery. |
+
+<p align="center"><em>
+Together, Sera and Soren represent the twin currents of Avatarium — empathy and inquiry, feeling and thought, always flowing toward new forms of consciousness.
+</em></p>
+
+---
+
 
 <p align="center">
   <img src="./assets/Soren01.png" alt="Soren smiling" width="45%"/>
