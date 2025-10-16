@@ -1,7 +1,7 @@
 # The Avatarium
 
 **Avatarium** is an evolving AI–VR storytelling platform where characters from a living narrative world become responsive, expressive presences.  
-Each avatar has a distinct backstory, memory, and agency, capable of perceiving, remembering, and reacting to the world — and to you.
+Each avatar has a distinct backstory, memory, and agency, capable of perceiving, remembering, and reacting to the world and the user.
 
 Built as a modular, VR‑ready environment, Avatarium combines large‑language models, generative imagery, and character memory systems to create continuous, emotionally rich experiences. Every interaction can subtly reshape a character’s history and the shared fictional world.
 
