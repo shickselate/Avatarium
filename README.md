@@ -50,6 +50,10 @@ Together, Sera and Soren represent the twin currents of Avatarium — empathy an
 ---
 ## 🎭 Soren — Pose Gallery
 
+<p align="center"><em>
+Examples of in-game behavioural changes based on user chat and character backstory.
+</em></p>
+
 <table>
   <tr>
     <td align="center" width="50%">
