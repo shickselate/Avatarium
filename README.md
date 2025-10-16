@@ -21,21 +21,6 @@ Together, Sera and Soren represent the twin currents of Avatarium — empathy an
 
 ---
 
-
-<p align="center">
-  <img src="./assets/Soren01.png" alt="Soren smiling" width="45%"/>
-  <img src="./assets/Soren02.png" alt="Soren worried" width="45%"/><br/>
-  <img src="./assets/Soren03.png" alt="Soren standing at the beach" width="45%"/>
-  <img src="./assets/Soren04.png" alt="Soren at the beach, looking at a holographic display" width="45%"/>
-</p>
-
-<p align="center"><em>
-Soren — a transhuman explorer shaped by oceanic evolution.  
-His story unfolds through memory, perception, and dialogue.
-</em></p>
-
----
-
 ## 🌟 Current Capabilities (2025)
 
 ### 🧠 Character Memory & Backstory
@@ -63,6 +48,38 @@ His story unfolds through memory, perception, and dialogue.
 - Supports remote or LAN‑based model execution.
 
 ---
+## 🎭 Soren — Pose Gallery
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/Soren02.png" alt="Soren — smiling" width="100%"/><br/>
+      <sub>Smiling</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/Soren03.png" alt="Soren — worried" width="100%"/><br/>
+      <sub>Worried</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/Soren04.png" alt="Soren — standing at the beach" width="100%"/><br/>
+      <sub>Standing at the beach</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/Soren05.png" alt="Soren — at the beach, looking at a holographic display" width="100%"/><br/>
+      <sub>Beach + holographic display</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><em>
+Soren — a transhuman explorer shaped by oceanic evolution.  
+His story unfolds through memory, perception, and dialogue.
+</em></p>
+
+
+
 
 ## 🚧 In Development
 
