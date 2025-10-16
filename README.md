@@ -1,19 +1,19 @@
 # The Avatarium
 
-**Avatarium** is an evolving AI–VR storytelling platform where characters from a living narrative world become responsive, expressive presences.  
-Each avatar has a distinct backstory, memory, and agency, capable of perceiving, remembering, and reacting to the world and the user.
+**Avatarium** is an open-source AI–VR storytelling platform where digital characters evolve, remember, and respond — merging narrative storytelling with embodied interaction.  
+Each avatar carries a distinct backstory, memory, and agency, capable of perceiving, remembering, and reacting to the user and the wider fictional world.  
 
-Built as a modular, VR‑ready environment, Avatarium combines large‑language models, generative imagery, and character memory systems to create continuous, emotionally rich experiences. Every interaction can subtly reshape a character’s history and the shared fictional world.
+Built as a modular, VR-ready environment, Avatarium integrates large-language models, generative imagery, and long-term character memory systems to create continuous, emotionally rich experiences. Every exchange can subtly reshape a character’s history — and, in turn, the shared world they inhabit.
 
 ---
 ---
 
 ## 🌊 Example Characters
 
-| Character | Portrait | Description |
-|------------|-----------|--------------|
-| **Sera** | <img src="./assets/sera.png" alt="Sera — transhuman sibling adapted for aquatic life" width="180"/> | A transhuman woman adapted for oceanic environments — calm, perceptive, and spiritually attuned. Sera acts as both guide and mirror, helping users navigate emotional and narrative depths within Avatarium. |
-| **Soren** | <img src="./assets/soren.png" alt="Soren — her brother, shaped by the same tide of evolution" width="180"/> | Sera’s brother, more analytical and introspective. He carries the same genetic legacy of aquatic adaptation, but his journey leads toward solitude, reflection, and rediscovery. |
+| Portrait | Description |
+|----------|-------------|
+|  <img src="./assets/sera.png" alt="Sera — transhuman sibling adapted for aquatic life" width="100%"/> | Sera. A transhuman woman adapted for oceanic environments — calm, perceptive, and spiritually attuned. Sera acts as both guide and mirror, helping users navigate emotional and narrative depths within Avatarium. |
+| <img src="./assets/soren.png" alt="Soren — her brother, shaped by the same tide of evolution" width="100%"/> | Soren, more analytical and introspective. He carries the same genetic legacy of aquatic adaptation, but his journey leads toward solitude, reflection, and rediscovery. |
 
 <p align="center"><em>
 Together, Sera and Soren represent the twin currents of Avatarium — empathy and inquiry, feeling and thought, always flowing toward new forms of consciousness.
@@ -27,20 +27,19 @@ Together, Sera and Soren represent the twin currents of Avatarium — empathy an
 - YAML‑based long‑term memory and persona system per character.
 - Stores dialogue summaries, emotional tone, and factual events.
 - Compresses and sends backstory + chat context to LLM for continuity.
-- Under development: **Backstory Forge UI** for interactive personality editing.
+- In development: **Backstory Forge UI** for interactive personality editing.
 
 ### 💬 Conversational Intelligence
 - In‑character dialogue powered by either:
   - **OpenAI GPT‑4o‑mini** (default), or  
   - **Ollama local models** (e.g. `llama3.1:8b`, `phi3:3.8b`).
-- Supports evolving context, internal thoughts, and expressive narrative output.
-- Memory and persona data dynamically influence tone and response style.
+- Context-aware responses shaped by memory, emotion, and narrative state.
 
 ### 🎨 Visual Generation & Editing
 - Dynamic image rendering through **ComfyUI** pipelines.
-- Automatic visual updates from textual prompts: pose, expression, camera, mood.
-- Seamless 2‑way link between dialogue and image states.
-- Local file structure supports scene‑based rendering and album history.
+- Real-time visual updates: pose, expression, camera, and mood  
+- Two-way link between dialogue and image states  
+- Local file structure supports scene-based rendering and visual history  
 
 ### 🧩 Architecture Integration
 - Unified state object defines `persona`, `memory`, `scene`, and `emotion`.
@@ -155,9 +154,11 @@ pip install gradio requests pyyaml pillow
 
 ## 💬 Acknowledgements
 
-Developed collaboratively with iterative AI assistance by **Stephen Hicks**.  
+Developed by **Stephen Hicks**  with iterative AI collaboration.  
 Part of the broader **Fusion Shift / Avatarium** universe — exploring intimacy, presence, and the boundaries between AI, art, and storytelling.
 
 ---
 
 © 2025 Stephen Hicks — Released under the **MIT License**.
+
+
