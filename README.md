@@ -89,7 +89,7 @@ His story unfolds through memory, perception, and dialogue.
 | Area | Description |
 |------|--------------|
 | **Backstory Forge** | Web tool for creating and editing character memories, traits, and histories. |
-| **Emotion Feedback** | Integrating webcam‑based user emotion detection (ML Kit / MediaPipe). |
+| **Emotion Feedback** | Integrating webcam‑based user emotion detection (ML Kit / MediaPipe). [in progress](https://github.com/shickselate/face-capture) |
 | **Avatar Self‑Perception** | LLMs gain awareness of their own appearance via image captioning (CLIP / BLIP). |
 | **Unified Scene Manager** | Links image state, conversation history, and world context. |
 
