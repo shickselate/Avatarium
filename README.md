@@ -9,13 +9,19 @@ Built as a modular, VR-ready environment, Avatarium integrates large-language mo
 
 ### **Character Generation and Modification**
 
-| Stage | Visual | Description |
-|--------|---------|-------------|
-| **Base Character** | <img src="./assets/sera.png" alt="Sera — base portrait" width="100%"/> | *A photorealistic transhuman woman adapted for oceanic life.* Generated from a single prompt defining personality, appearance, and mood. |
-| **Modified Scene** | <img src="./assets/sera4.png" alt="Sera — looking at her hand and hovering sphere" width="100%"/> | *The same character, re-posed.* From a simple text prompt, the system maintains consistency while alerting pose, expression, and environment|
+<p align="center">
+  <img src="./assets/sera.png" alt="Sera — base portrait" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="./assets/sera4.png" alt="Sera — looking at her hand and hovering sphere" width="45%"/>
+</p>
+
+<p align="center">
+  <em>Left: Base character — Sera, a photorealistic transhuman woman adapted for oceanic life.</em><br>
+  <em>Right: Modified scene — the same character re-posed, raising her hand, floating a sphere as iridescent patterns shimmer across her skin.</em>
+</p>
 
 <p align="center"><sub><em>
-The system’s generates consistent, photorealistic characters and transforms them through natural language prompts.
+From a single reference image, the system generates consistent, lifelike variations in pose, expression, lighting, and environment — directed entirely through natural language prompts.
 </em></sub></p>
 
 ---
