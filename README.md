@@ -13,7 +13,7 @@ Built as a modular, VR-ready environment, Avatarium integrates large-language mo
 | Portrait | Description |
 |----------|-------------|
 |  <img src="./assets/sera.png" alt="Sera — transhuman sibling adapted for aquatic life" width="100%"/> | Sera. A transhuman woman adapted for oceanic environments — calm, perceptive, and spiritually attuned. Sera acts as both guide and mirror, helping users navigate emotional and narrative depths within Avatarium. |
-| <img src="./assets/soren.png" alt="Soren — her brother, shaped by the same tide of evolution" width="100%"/> | Soren, more analytical and introspective. He carries the same genetic legacy of aquatic adaptation, but his journey leads toward solitude, reflection, and rediscovery. |
+| <img src="./assets/sera4.png" alt="Sera floating a water sphere" width="100%"/> Behaviour |
 
 <p align="center"><em>
 Together, Sera and Soren represent the twin currents of Avatarium — empathy and inquiry, feeling and thought, always flowing toward new forms of consciousness.
